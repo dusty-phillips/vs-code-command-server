@@ -30,3 +30,6 @@ Another alternative I thought of exploring was using a web socket connection
 so that it can be talking to a different two-way communication with caster. 
 That would probably have more use cases and be worth inspecting further
 if the mood takes you.
+
+This prototype also doesn't support passing arguments to Visual Studio code commands
+but it should not be difficult to pass these through HTTP query parameters.
